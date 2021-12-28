@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * https://algo-method.com/tasks/244
+ */
+
 list($n, $k) = explode(' ', trim(fgets(STDIN)));
 $an = explode(' ', trim(fgets(STDIN)));
 

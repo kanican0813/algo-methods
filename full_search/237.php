@@ -1,4 +1,9 @@
 <?php
+
+/**
+ * https://algo-method.com/tasks/237
+ */
+
 $a = [];
 while(true) {
     $e = trim(fgets(STDIN));
